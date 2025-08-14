@@ -89,7 +89,7 @@ graph LR
 1️⃣ **Clone the Repository**
 
 ```bash
-git clone https://github.com/lohitkolluri/NLP2SQLL.git
+git clone https://github.com/sushantmutta/NLP2SQLL.git
 cd NLP2SQL
 ```
 
